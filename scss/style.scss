@@ -1,0 +1,44 @@
+$blue: #a3d5d3;
+
+.intro {
+  width: 100%;
+	height:80%;
+  text-align: center;
+  color: white;
+  font-size:20px;
+   background-image: url("http://images.indianexpress.com/2017/12/kohli-records-m.jpg");	
+background-size: cover;
+background-repeat: no-repeat; 
+  background-attachment: fixed;
+	// background-position: center;
+}
+ 
+.section2{
+  font-family: Verdana Arial;
+  font-style: italic;
+  font-size: 20px;
+}
+.section4{
+  font-family: Verdana Arial;
+  // font-style: italic;
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+  
+}
+.bold{
+  font-weight: bold;
+}
+.italic{
+  font-style: italic;
+}
+.email{
+  font-style: italic;
+}
+
+@import url(https://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+
+.urdu {
+  font-family: 'Noto Naskh Arabic', serif;
+  font-size: 1.5em;
+}
